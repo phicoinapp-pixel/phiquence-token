@@ -51,7 +51,7 @@ This ensures:
 - 🐦 Twitter (X): https://x.com/phiquence  
 - 📸 Instagram: https://instagram.com/phiquence  
 - ▶️ YouTube: https://youtube.com/@Phiquence  
-- 🔍 BscScan: https://bscscan.com/0x82A375883c5E402D6D95436C0415bAE0a2c7645  
+- 🔍 BscScan: https://bscscan.com/address/0xe82A375883c5E402D6D95436C0415bAE0a2c7645  
 
 ---
 
